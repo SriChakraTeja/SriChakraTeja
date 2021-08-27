@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/gouseferoz/gouseferoz/main/hi.gif" width="30px">, I'm Sri Chakra Teja Tadikonda.!
 
-<!--
-**SriChakraTeja/SriChakraTeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github stats
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=SriChakraTeja&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=SriChakraTeja&show_icons=true&theme=onedark)
+
+---
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50">
